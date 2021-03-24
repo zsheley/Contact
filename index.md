@@ -4,7 +4,7 @@ Welcome to my contact page! This page is dedicated to ensure you are able to con
 
 ### The Basics
 
-    **Email: **zacherysheley@protonmail.com
-    **Phone: **+1 (804) 955-9181
+    Email: zacherysheley@protonmail.com
+    Phone: +1 (804) 955-9181
 
 
