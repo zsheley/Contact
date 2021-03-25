@@ -7,4 +7,7 @@ Welcome to my contact page! This page is dedicated to ensure you are able to con
     Email: zacherysheley@protonmail.com
     Phone: +1 (804) 955-9181
 
+### Resumes
 
+[29072020](https://zsheley.github.io/more/Resume%2007-29-2020.pdf)  
+[13092020](https://zsheley.github.io/more/Resume%2009-13-2020.pdf)
